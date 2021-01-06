@@ -1,0 +1,11 @@
+{  
+    "chitchats": {  
+        "access_token": " ",
+        "client_id": " "
+    },
+    "ebay":{
+        "client_id": " ",
+        "dev_id": " ",
+        "client_secret": " "
+    }  
+}  
